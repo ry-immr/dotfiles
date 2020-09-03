@@ -9,4 +9,4 @@ if [ $? -ne 0 ]; then
     die "not found: $DOTFILES_PATH"
 fi
 
-. link.sh
+source link.sh
