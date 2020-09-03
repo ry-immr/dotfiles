@@ -1,5 +1,8 @@
 set fenc=utf-8
+set termguicolors
 syntax enable
+set background=dark
+colorscheme iceberg
 
 set number
 set showmatch
