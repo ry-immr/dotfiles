@@ -1,10 +1,6 @@
 set fenc=utf-8
-set termguicolors
 syntax enable
-colorscheme desert
-"for iceberg
-"set background=dark
-"colorscheme iceberg
+colorscheme nord
 
 set number
 set showmatch
